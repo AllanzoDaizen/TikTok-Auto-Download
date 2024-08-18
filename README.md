@@ -2,5 +2,6 @@
 
 How to install in Kali Linux
 
-- [Open terminal in your Kali or Ubutu ] 
-`$git clone `
+- [Open terminal in your Kali or Ubutu ]
+
+`$git clone https://github.com/AllanzoDaizen/TikTok-Auto-Download.git `
